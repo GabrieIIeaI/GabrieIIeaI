@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Leal</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<h3 align="center">👨🏾‍💻 Software Engineer sharing about my journey and learning in tech</h3>
 
-- 🌱 I’m currently learning **AWS**
-
+- 👨🏾‍💻 Software Engineer sharing about my journey and learning in tech
 - 💬 Ask me about **react, react native, next, vue**
 
 - 📫 How to reach me **gabriel.lealsnt@gmail.com**
