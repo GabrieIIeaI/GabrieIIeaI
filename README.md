@@ -6,6 +6,7 @@
 
 - 📫 How to reach me **gabriel.lealsnt@gmail.com**
 
+[![GabrieIIeaI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielleal)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GabrieIIeaI's Stack Overflow | Stats](https://stats.quine.sh/GabrieIIeaI/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=GabrieIIeaI)
 
